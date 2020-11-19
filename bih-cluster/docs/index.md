@@ -32,7 +32,7 @@ This documentation is maintained by BIH HPC IT, BIH CUBI (Core Unit Bioinformati
 
         ```bash
         # Interactive Login as Charite user
-        ssh -l user login-1.research.hpc.bihealth.org  # OR login-2...
+        ssh -l user_c login-1.research.hpc.bihealth.org  # OR login-2...
         ```
 
 ## Getting Started
